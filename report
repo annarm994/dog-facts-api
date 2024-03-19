@@ -1,0 +1,10 @@
+Express.js Framework: 
+I chose Express.js for building the API due to its simplicity, flexibility, and widespread use in the Node.js ecosystem. 
+
+Data Storage: 
+Dog facts are stored in a separate JavaScript file (dog_facts.js) to separate concerns and make the code more modular. 
+
+Error Handling: 
+Basic error-handling middleware is implemented 
+
+One challenge was parsing the number of query parameters to determine the number of facts to return. 
